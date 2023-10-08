@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918244282384",
+    "project_id": "demoproject-8d727",
+    "storage_bucket": "demoproject-8d727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918244282384:android:5cd1c1fc937cbb3378ba95",
+        "android_client_info": {
+          "package_name": "com.example.fbsetting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjIeYeiCalwHbaS-t0tRWe3iemWC6sNmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
